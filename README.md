@@ -5,6 +5,8 @@
   * [Awlab](#Awlab)
   * [Defshop](#Defshop)
   * [Footshop](#Footshop)
+  * [LDLC](#LDLC)
+  * [NBB](#NBB)
   * [Revolve](#Revolve)
   * [Rinascente](#Rinascente)
   * [Zalando](#Zalando)
@@ -23,15 +25,16 @@ EXAMPLE:
 
 
 ### Awlab
-<h4> FORMAT: http://localhost:5080/query?{pid,link,size,site} </h4>
+<h4> FORMAT:  http://localhost:5080/base64?data="{{pid,link,size,site}}" </h4>
+( pid, link, size[ ] ) 
 
-**The object must be urlencoded**
+**The object must be converted to a Json string and then to base64**
 
 * The size field can contain more sizes (size=7,4,4.5,5.5)
 * The size format must be in US
 
 EXAMPLE:
-<pre> http://localhost:5080/query?site=Awlab&link=https%3A%2F%2Fwww.aw-lab.com%2Fdonna%2Fcollezioni%2Fnike-air-force-1%2Fnike-air-force-1-pixel-AW_22121CDMB.html%3Fcgid%3Ddonna_collezioni_nikeairforce1%26dwvar_AW__22121CDMB_color%3D5011831&size=7%2C4%2C4.5%2C5.5&pid=AW_22121CDMB_5011831 </pre>
+<pre> http://localhost:5080/base64?data=eyJzaXRlIjoiQXdsYWIiLCJsaW5rIjoiaHR0cHM6Ly9lbi5hdy1sYWIuY29tL21lbi9zaG9lcy9iYXNrZXQvbmlrZS1zYi1ibGF6ZXItdmFwb3ItQVdfMjIxMjIyMkEuaHRtbD9jZ2lkPW1lbl9zaG9lc19iYXNrZXRiYWxsc2hvZXMmZHd2YXJfQVdfXzIyMTIyMjJBX2NvbG9yPTgwNDE2MjMiLCJzaXplIjpbIjciXSwicGlkIjoiQVdfMjIxMjIyMkFfODA0MTYyMyJ9 </pre>
 
 
 ### Defshop
@@ -65,6 +68,24 @@ EXAMPLE:
 <pre> http://localhost:5080/query?site=Footshop&link=https%3A%2F%2Fwww.footshop.it%2Fit%2Fscarpe-e-sneaker-da-uomo%2F114958-nike-air-force-1-07-premium-coconut-milk-atomic-orange-fuel-orange.html&size=7&pid=114958&sizeId=728683 </pre>
 
 
+### LDLC
+<h4> FORMAT: http://localhost:5080/query?{pid,link,site} </h4>
+
+**The object must be urlencoded**
+
+EXAMPLE:
+<pre> test </pre>
+
+
+### NBB
+<h4> FORMAT: http://localhost:5080/query?{pid,link,site} </h4>
+
+**The object must be urlencoded**
+
+EXAMPLE:
+<pre> test </pre>
+
+
 ### Revolve
 <h4> FORMAT: http://localhost:5080/query?{pid,link,size,site} </h4>
 
@@ -94,7 +115,7 @@ EXAMPLE:
 <h4> FORMAT:  http://localhost:5080/base64?data="{{pid,link,size,site}}" </h4>
 ( pid[ ], link[ ], size[[ ]] ) 
 
-**The Json must be urlencoded and then converted to base64**
+**The object must be converted to a Json string and then to base64**
 
 * The size field can contain multiple sizes (size=7,8,8.5)
 * The size format must be in US
