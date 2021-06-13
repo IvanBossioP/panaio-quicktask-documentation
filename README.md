@@ -5,8 +5,8 @@
   * [Awlab](#Awlab)
   * [Defshop](#Defshop)
   * [Footshop](#Footshop)
-  * [LDLC](#LDLC)
-  * [NBB](#NBB)
+  * [LDLC](#Ldlc)
+  * [NBB](#Nbb)
   * [Revolve](#Revolve)
   * [Rinascente](#Rinascente)
   * [Zalando](#Zalando)
@@ -68,22 +68,22 @@ EXAMPLE:
 <pre> http://localhost:5080/query?site=Footshop&link=https%3A%2F%2Fwww.footshop.it%2Fit%2Fscarpe-e-sneaker-da-uomo%2F114958-nike-air-force-1-07-premium-coconut-milk-atomic-orange-fuel-orange.html&size=7&pid=114958&sizeId=728683 </pre>
 
 
-### LDLC
+### Ldlc
 <h4> FORMAT: http://localhost:5080/query?{pid,link,site} </h4>
 
 **The object must be urlencoded**
 
 EXAMPLE:
-<pre> test </pre>
+<pre> http://localhost:5080/query?pid=AR201601220127&link=https%3A%2F%2Fwww.ldlc.com%2Ffiche%2FPB00203250.html&site=Ldlc </pre>
 
 
-### NBB
+### Nbb
 <h4> FORMAT: http://localhost:5080/query?{pid,link,site} </h4>
 
 **The object must be urlencoded**
 
 EXAMPLE:
-<pre> test </pre>
+<pre> http://localhost:5080/querypid=679023&sizeId=4804&link=https%3A%2F%2Fwww.notebooksbilliger.de%2Fapple%2Bipad%2B102%2Bwi%2Bfi%2B128gb%2Bspacegrau%2B8gen%2Bmyld2fda%2B679023&site=Nbb </pre>
 
 
 ### Revolve
