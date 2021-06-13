@@ -6,6 +6,7 @@
   * [Defshop](#Defshop)
   * [Footshop](#Footshop)
   * [LDLC](#Ldlc)
+  * [Mesh](#Mesh)
   * [NBB](#Nbb)
   * [Revolve](#Revolve)
   * [Rinascente](#Rinascente)
@@ -75,6 +76,20 @@ EXAMPLE:
 
 EXAMPLE:
 <pre> http://localhost:5080/query?pid=AR201601220127&link=https%3A%2F%2Fwww.ldlc.com%2Ffiche%2FPB00203250.html&site=Ldlc </pre>
+
+
+### Mesh
+* Jd
+* FootPatrol
+* Size
+* TheHipStore
+
+<h4> FORMAT: http://localhost:5080/query?{pid,sizeId,site} </h4>
+
+**The object must be urlencoded**
+
+EXAMPLE:
+<pre> Test </pre>
 
 
 ### Nbb
