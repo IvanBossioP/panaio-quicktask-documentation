@@ -7,7 +7,6 @@
   * [Footshop](#Footshop)
   * [LDLC](#Ldlc)
   * [Mesh](#Mesh)
-  * [NBB](#Nbb)
   * [Revolve](#Revolve)
   * [Rinascente](#Rinascente)
   * [Zalando](#Zalando)
@@ -55,7 +54,7 @@ EXAMPLE:
 <pre> http://localhost:5080/query?site=Defshop&link=https%3A%2F%2Fwww.def-shop.com%2Fnike-w-air-max-90-sneakers-white-arctic-punch-barely-green.html&size=40&pid=824176&sizeId=8195379 </pre>
 
 
-### FootShop
+### Footshop
 <h4> FORMAT: http://localhost:5080/query?{pid,link,size,sizeId,site} </h4>
 
 **The object must be urlencoded**
@@ -69,18 +68,18 @@ EXAMPLE:
 <pre> http://localhost:5080/query?site=Footshop&link=https%3A%2F%2Fwww.footshop.it%2Fit%2Fscarpe-e-sneaker-da-uomo%2F114958-nike-air-force-1-07-premium-coconut-milk-atomic-orange-fuel-orange.html&size=7&pid=114958&sizeId=728683 </pre>
 
 
-### Ldlc
+### LDLC
 <h4> FORMAT: http://localhost:5080/query?{pid,link,site} </h4>
 
 **The object must be urlencoded**
 
 EXAMPLE:
-<pre> http://localhost:5080/query?pid=AR201601220127&link=https%3A%2F%2Fwww.ldlc.com%2Ffiche%2FPB00203250.html&site=Ldlc </pre>
+<pre> http://localhost:5080/query?pid=AR201601220127&link=https%3A%2F%2Fwww.ldlc.com%2Ffiche%2FPB00203250.html&site=LDLC </pre>
 
 
 ### Mesh
-* Jd
-* FootPatrol
+* JDSports
+* Footpatrol
 * Size
 * TheHipStore
 
@@ -90,16 +89,6 @@ EXAMPLE:
 
 EXAMPLE:
 <pre> Test </pre>
-
-
-### Nbb
-<h4> FORMAT: http://localhost:5080/query?{pid,link,site} </h4>
-
-**The object must be urlencoded**
-
-EXAMPLE:
-<pre> http://localhost:5080/querypid=679023&sizeId=4804&link=https%3A%2F%2Fwww.notebooksbilliger.de%2Fapple%2Bipad%2B102%2Bwi%2Bfi%2B128gb%2Bspacegrau%2B8gen%2Bmyld2fda%2B679023&site=Nbb </pre>
-
 
 ### Revolve
 <h4> FORMAT: http://localhost:5080/query?{pid,link,size,site} </h4>
