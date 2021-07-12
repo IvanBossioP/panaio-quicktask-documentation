@@ -3,7 +3,7 @@
 ## Supported sites
   * [ALDI](#ALDI)
   * [Asos](#Asos)
-  * [Awlab & Here-Store](#Awlab & Here-Store)
+  * [Awlab and Here-Store](#Awlab and Here-Store)
   * [Defshop](#Defshop)
   * [Footasylum](#Footasylum)
   * [Footshop](#Footshop)
@@ -37,7 +37,7 @@ EXAMPLE:
 <pre> http://localhost:5080/query?site=Asos&link=https%3A%2F%2Fwww.asos.com%2Fit%2Fnike%2Fnike-air-max-270-essential-sneakers-bianche%2Fprd%2F21390440%3Fclr%3Dbianco%26colourwayid%3D60163237%26SearchQuery%3Dnike&size=7&pid=21390531 </pre>
 
 
-### Awlab & Here-Store
+### Awlab and Here-Store
 <h4> FORMAT:  http://localhost:5080/base64?data="{{pid,link,size,site}}" </h4>
 ( pid, link, size[ ] ) 
 
