@@ -3,7 +3,7 @@
 ## Supported sites
   * [ALDI](#ALDI)
   * [Asos](#Asos)
-  * [Awlab & Here-Store](#Awlab & Here-Store)
+  * [Awlab & Here-Store](#Awlab \& Here-Store)
   * [Defshop](#Defshop)
   * [Footasylum](#Footasylum)
   * [Footshop](#Footshop)
