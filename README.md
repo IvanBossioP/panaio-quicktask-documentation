@@ -5,11 +5,13 @@
   * [Asos](#Asos)
   * [Awlab & Here Store](#Awlab)
   * [Defshop](#Defshop)
+  * [Disney](#Disney)
   * [Footasylum](#Footasylum)
   * [Footshop](#Footshop)
   * [Kickz](#Kickz)
   * [LDLC](#Ldlc)
   * [Mesh](#Mesh)
+  * [New Balance](#New-Balance)
   * [Revolve](#Revolve)
   * [Rinascente](#Rinascente)
   * [Yoox](#Yoox)
@@ -65,6 +67,15 @@ EXAMPLE:
 
 EXAMPLE:
 <pre> http://localhost:5080/query?site=Defshop&link=https%3A%2F%2Fwww.def-shop.com%2Fnike-w-air-max-90-sneakers-white-arctic-punch-barely-green.html&size=40&pid=824176&sizeId=8195379 </pre>
+
+
+### Disney
+<h4> FORMAT: http://localhost:5080/query?{pid,link,site} </h4>
+
+**The object must be urlencoded**
+
+EXAMPLE:
+<pre> http://localhost:5080/query?site=Disney&link=https%3A%2F%2Fwww.shopdisney.it%2Fpersonaggio-stitch-funko-pop-vinyl-lilo-e-stitch-461011989270.html&pid=461011989270 </pre>
 
 
 ### Footasylum
@@ -125,12 +136,25 @@ EXAMPLE:
 <h4> FORMAT: http://localhost:5080/query?{link,pid,sizeId,site} </h4>
 
 **The object must be urlencoded**
-* The link field must contain the sku (009289_jdsportsit.959375) 
+* The link field must contain the sku (009289_jdsportsit.959375) or the pid(009289_jdsportsit) or the link(https://www.jdsports.it/product/nero-nike-air-max-270/009289_jdsportsit/)
 * The pid field must contain the product's id (009289_jdsportsit)
-* The sizeId field must contain the id of the size (959375)
+* The sizeId field must contain the id of the size (959375) (this field is optional)
 
 EXAMPLE:
 <pre> http://localhost:5080/query?site=JDSports&link=009289_jdsportsit.959375&pid=009289_jdsportsit&sizeId=959375 </pre>
+
+
+### <a name="New-Balance"></a>New Balance
+<h4> FORMAT:  http://localhost:5080/base64?data="{{pid,link,size,site}}" </h4>
+( pid, link, size[ ] ) 
+
+**The object must be converted to a Json string and then to base64**
+
+* The size field can contain more sizes (size=7,4,4.5,5.5)
+* The size format must be in US
+
+EXAMPLE:
+<pre> http://localhost:5080/base64?data=eyJzaXRlIjoiTmV3IEJhbGFuY2UiLCJsaW5rIjoiaHR0cHM6Ly93d3cubmV3YmFsYW5jZS5pdC9pdC9wZC9mcmVzaC1mb2FtLXJvYXYvV1JPQVZWMS0zNTk5NS5odG1sIiwicGlkIjoiV1JPQVZWMS0zNTk5NSIsInNpemUiOlsiMTAuNSIsIjEwIiwiOS41Il19 </pre>
 
 
 ### Revolve
