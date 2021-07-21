@@ -107,12 +107,12 @@ EXAMPLE:
 
 ### Kickz
 <h4> FORMAT: http://localhost:5080/base64?data={pid,link,size,site} </h4>
+( pid, link, size[ ] ) 
 
-**The object must be urlencoded**
+**The object must be converted to a Json string and then to base64**
 
-* The size field can contain only one size (size=7)
+* The size field can contain more sizes (size=7,4,4.5,5.5)
 * The size format must be in US
-* The pid field must contain the id of the size
 
 EXAMPLE:
 <pre> http://localhost:5080/base64?data=eyJzaXRlIjoiS2lja3oiLCJsaW5rIjoiaHR0cHM6Ly93d3cua2lja3ouY29tL2l0L25pa2Utc25lYWtlcnMtYmFzc2Utd21ucy1haXItZm9yY2UtMS0wNy1lc3Mtd2hpdGVfYmxhY2tfd2hpdGVfYmxhY2stMTUxOTU2MDA2IiwicGlkIjoiMTUxOTU2MDA2Iiwic2l6ZSI6WyIzIiwiMy41IiwiNCIsIjQuNSIsIjUiLCI1LjUiLCI2IiwiNi41IiwiNyIsIjcuNSIsIjgiLCI4LjUiLCI5IiwiOS41IiwiMTAiLCIxMC41IiwiMTEiLCIxMS41IiwiMTIiLCIxMi41IiwiMTMiLCIxNCIsIjE1IiwiMTYiLCIxNyIsIjE4Il19 </pre>
