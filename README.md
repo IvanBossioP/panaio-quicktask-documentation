@@ -9,7 +9,8 @@
   * [Footasylum](#Footasylum)
   * [Footshop](#Footshop)
   * [Kickz](#Kickz)
-  * [LDLC](#Ldlc)
+  * [LDLC](#LDLC)
+  * [LVR](#LVR)
   * [Mesh](#Mesh)
   * [New Balance](#New-Balance)
   * [Revolve](#Revolve)
@@ -125,6 +126,19 @@ EXAMPLE:
 
 EXAMPLE:
 <pre> http://localhost:5080/query?pid=AR201601220127&link=https%3A%2F%2Fwww.ldlc.com%2Ffiche%2FPB00203250.html&site=LDLC </pre>
+
+
+### LVR
+<h4> FORMAT: http://localhost:5080/base64?data={pid,link,size,site} </h4>
+( pid, link, size[ ] ) 
+
+**The object must be converted to a Json string and then to base64**
+
+* The size field can contain more sizes (size=7,4,4.5,5.5)
+* The size format must be in US
+
+EXAMPLE:
+<pre> http://localhost:5080/base64?data=eyJzaXRlIjoiTFZSIiwibGluayI6Imh0dHBzOi8vd3d3Lmx1aXNhdmlhcm9tYS5jb20vaXQtaXQvcC9uaWtlL3VvbW8vc25lYWtlcnMvNzNJLTRPWjA4Nj9ha2FfcmU9MiZfX3M9TmpNME5UQTNOUSIsInNpemUiOlsiNi41Il0sInBpZCI6IjczSS00T1owODYifQ== </pre>
 
 
 ### Mesh
