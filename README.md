@@ -20,28 +20,30 @@
 
 #
 ### Site
-**Values to insert in the variable site**
-
+***The brackets next to the sites indicate that the parameters specified can be entered instead of the productLink***
+ <pre> http://localhost:5080/quicktask?site=${JDSports}&link=${pid} </pre>
+ 
+ **Values to insert in the variable site**
   * About You
   * ALDI
-  * Amazon
-  * Asos
+  * Amazon (asin)
+  * Asos (variantId)
   * Awlab
   * Defshop
   * Disney
   * Footasylum
-  * Footpatrol
+  * Footpatrol (pid, sku)
   * Footshop
   * Here Store
   * Kickz
   * Kith EU
-  * JDSports
+  * JDSports (pid, sku)
   * LDLC
   * LVR
   * Revolve
   * Rinascente
-  * Size
-  * TheHipStore
+  * Size (pid, sku)
+  * TheHipStore (pid, sku)
   * Yoox
   * Zalando
 
