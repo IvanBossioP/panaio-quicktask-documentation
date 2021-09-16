@@ -16,7 +16,7 @@
 
 
 ### Examples of quickTask
-<pre> http://localhost:5080/quicktask?site=Kith%20EU&link='https%3A%2F%2Feu.kith.com%2Fcollections%2Fmens-footwear%2Fproducts%2Fjbct4838-011' </pre>
+<pre> http://localhost:5080/quicktask?site=Kith%20EU&link=https%3A%2F%2Feu.kith.com%2Fcollections%2Fmens-footwear%2Fproducts%2Fjbct4838-011 </pre>
 
 #
 ### Site
