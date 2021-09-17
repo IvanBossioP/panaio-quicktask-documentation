@@ -42,8 +42,8 @@
   * LVR
   * Revolve
   * Rinascente
-  * Size (pid, sku)
-  * TheHipStore (pid, sku)
+  * Size (link, pid, sku)
+  * TheHipStore (link, pid, sku)
   * Yoox
   * Zalando
 
