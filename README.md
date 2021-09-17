@@ -26,18 +26,18 @@
  **Values to insert in the variable site**
   * About You
   * ALDI
-  * Amazon (asin)
-  * Asos (variantId)
+  * Amazon (link, asin)
+  * Asos (link, variantId)
   * Awlab
   * Defshop
   * Disney
   * Footasylum
-  * Footpatrol (pid, sku)
+  * Footpatrol (link, pid, sku)
   * Footshop
   * Here Store
   * Kickz
   * Kith EU
-  * JDSports (pid, sku)
+  * JDSports (link, pid, sku)
   * LDLC
   * LVR
   * Revolve
