@@ -3,7 +3,7 @@
 ### Quicktask Structure
 
 <pre><code>
- http://localhost:5080/quicktask?site=${site}&link=${productLink}
+ http://localhost:5080/quicktask?site=<site>link=<productLink>
  
 </code></pre>
 
@@ -21,8 +21,7 @@
 #
 ### Site
 ***The brackets next to the sites indicate that the parameters specified can be entered instead of the productLink***
- <pre> http://localhost:5080/quicktask?site=${JDSports}&link=${pid} </pre>
- 
+
  **Values to insert in the variable site**
   * About You
   * ALDI
