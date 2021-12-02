@@ -3,7 +3,7 @@
 ### Quicktask Structure
 
 <pre><code>
- http://localhost:5080/quicktask?site=<site>link=<productLink>
+ http://localhost:5080/quicktask?site=\<site>link=\<productLink>
  
 </code></pre>
 
