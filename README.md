@@ -1,4 +1,4 @@
-# PanAIO QuickTask Documentation
+# PanAIO quicktask documentation
 
 ### Quicktask Structure
 
