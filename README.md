@@ -23,27 +23,27 @@
 ***The brackets next to the sites indicate that the parameters specified can be entered instead of the productLink***
 
  **Values to insert in the variable site**
-  * About You
-  * ALDI
-  * Amazon (link, asin)
-  * Asos (link, variantId)
-  * Awlab
-  * Defshop
-  * Disney
-  * Footasylum
+  * About You (link, pid)
+  * ALDI (link)
+  * Amazon (link, pid)
+  * Asos (link, pid)
+  * Awlab (sku)
+  * Cisalfa (link)
+  * Defshop (link)
+  * Disney (link, pid)
+  * FNAC (link, pid)
+  * Footasylum (link, sku)
   * Footpatrol (link, pid, sku)
-  * Footshop
-  * Here Store
-  * Kickz
-  * Kith EU
+  * Here Store (sku)
+  * Kith EU (link, pid)
   * JDSports (link, pid, sku)
-  * LDLC
-  * LVR
-  * Revolve
-  * Rinascente
+  * LDLC (link, pid)
+  * LVR (link, pid)
+  * New Balance (link, pid)
+  * Revolve (link)
+  * Rinascente (link)
   * Size (link, pid, sku)
   * TheHipStore (link, pid, sku)
-  * Yoox
-  * Zalando
+  * Zalando (link, pid)
 
 
