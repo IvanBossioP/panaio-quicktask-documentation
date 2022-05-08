@@ -3,7 +3,7 @@
 ### Quicktask Structure
 
 <pre><code>
- http://localhost:5080/quicktask?site=&lt;site&gt;&link=&lt;productLink&gt;
+ https://www.panaio.com/quicktask?site=&lt;site&gt;&link=&lt;productLink&gt;
  
 </code></pre>
 
@@ -16,7 +16,7 @@
 
 
 ### Examples of quickTask
-<pre> http://localhost:5080/quicktask?site=Kith%20EU&link=https%3A%2F%2Feu.kith.com%2Fcollections%2Fmens-footwear%2Fproducts%2Fjbct4838-011 </pre>
+<pre> https://www.panaio.com/quicktask?site=Kith%20EU&link=https%3A%2F%2Feu.kith.com%2Fcollections%2Fmens-footwear%2Fproducts%2Fjbct4838-011 </pre>
 
 #
 ### Site
