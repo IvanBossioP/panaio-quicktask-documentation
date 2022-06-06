@@ -11,12 +11,12 @@
 ***site and productLink must be urlencoded***
 
  
-****site = Kith EU**** <br>
+****site = Kith**** <br>
 ****productLink = https://eu.kith.com/collections/mens-footwear/products/jbct4838-011**** <br>
 
 
 ### Examples of quickTask
-<pre> https://www.panaio.com/quicktask?site=Kith%20EU&link=https%3A%2F%2Feu.kith.com%2Fcollections%2Fmens-footwear%2Fproducts%2Fjbct4838-011 </pre>
+<pre> https://www.panaio.com/quicktask?site=Kith&link=https%3A%2F%2Feu.kith.com%2Fcollections%2Fmens-footwear%2Fproducts%2Fjbct4838-011 </pre>
 
 #
 ### Site
