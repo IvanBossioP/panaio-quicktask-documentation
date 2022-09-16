@@ -24,7 +24,6 @@
 
  **Values to insert in the variable site**
   * About You (link, pid)
-  * ALDI (link)
   * Amazon (link, pid)
   * Asos (link, pid)
   * Cisalfa (link)
