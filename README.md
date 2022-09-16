@@ -37,8 +37,5 @@
   * NBSklep (link, pid)
   * New Balance (link, pid)
   * QueueIT (link)
-  * Revolve (link)
   * Rinascente (link)
   * Zalando (link, pid)
-
-
