@@ -34,6 +34,7 @@
   * Kith (link, pid)
   * Louis Vuitton (link, pid)
   * LVR (link, pid)
+  * Micromania (link, pid)
   * NBSklep (link, pid)
   * New Balance (link, pid)
   * QueueIT (link)
