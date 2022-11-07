@@ -32,7 +32,6 @@
   * Fnac (link, pid)
   * GlobalE (link, pid)
   * Kith (link, pid)
-  * Louis Vuitton (link, pid)
   * LVR (link, pid)
   * Micromania (link, pid)
   * NBSklep (link, pid)
