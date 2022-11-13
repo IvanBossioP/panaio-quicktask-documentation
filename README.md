@@ -27,7 +27,6 @@
   * Amazon (link, pid)
   * Asos (link, pid)
   * Cisalfa (link)
-  * Defshop (link)
   * Disney (link, pid)
   * Fnac (link, pid)
   * GlobalE (link, pid)
