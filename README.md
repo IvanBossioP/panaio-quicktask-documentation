@@ -7,9 +7,6 @@
  
 </code></pre>
 
-
-***site and productLink must be urlencoded***
-
  
 ****site = Kith**** <br>
 ****productLink = https://eu.kith.com/collections/mens-footwear/products/jbct4838-011**** <br>
