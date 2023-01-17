@@ -30,7 +30,6 @@
   * LVR (link, pid)
   * Micromania (link, pid)
   * NBSklep (link, pid)
-  * New Balance (link, pid)
   * QueueIT (link)
   * Shopify (link)
   * Zalando (link, pid)
