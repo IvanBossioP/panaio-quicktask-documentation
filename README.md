@@ -21,6 +21,7 @@
 
  **Values to insert in the variable site**
   * About You (link, pid)
+  * Adidas (link, pid)
   * Amazon (link, pid)
   * Asos (link, pid)
   * Cisalfa (link)
@@ -30,6 +31,7 @@
   * LVR (link, pid)
   * Micromania (link, pid)
   * NBSklep (link, pid)
+  * New Balance (link, pid)
   * QueueIT (link)
   * Shopify (link)
   * Zalando (link, pid)
