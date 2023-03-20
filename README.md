@@ -22,6 +22,7 @@
  **Values to insert in the variable site**
   * About You (link, pid)
   * Adidas (link, pid)
+  * Airness (link)
   * Amazon (link, pid)
   * Asos (link, pid)
   * Cisalfa (link)
