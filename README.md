@@ -38,7 +38,7 @@
   * Zalando (link, pid)
 
 ### Country
-Some sites support the country parameter in the quicktask it is never mandatory, you can add it with this format country=<country> with the country being lowercase
+Some sites support the country parameter in the quicktask, the country is not mandatory, you can add it with this format country=<country> with the country being lowercase
 
 **Sites supporting the country parameter**
  * Amazon
