@@ -36,3 +36,10 @@
   * QueueIT (link)
   * Shopify (link)
   * Zalando (link, pid)
+
+### Country
+Some sites support the country parameter in the quicktask it is never mandatory, you can add it with this format country=<country> with the country being lowercase
+
+**Sites supporting the country parameter**
+ * Amazon
+ * NBSklep
