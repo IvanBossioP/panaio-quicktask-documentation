@@ -43,3 +43,11 @@ Some sites support the country parameter in the quicktask, the country is not ma
 **Sites supporting the country parameter**
  * Amazon
  * NBSklep
+
+ ### Additional parameters
+We also support other optional additional parameters such as:
+ * method, used to set payment method of the task, the value should match the payment method name in the PanAIO GUI
+ * mode, used to set mode of the task, the value should match the payment mode in the PanAIO GUI
+ * quantity, used to sent quantity of the item
+ * priceLimit, used only on amazon to specify the maximum of an item, if the item price should be less than 100€ for example priceLimit must be set to 100
+ * details, used only on amazon to specify an offerid this must be used with Fast mode
