@@ -28,7 +28,9 @@
   * Cisalfa (link)
   * Disney (link, pid)
   * Fnac (link, pid)
+  * Footpatrol (link, pid, sizepid)
   * H&M (link, pid)
+  * JDSports (link, pid, sizepid)
   * Kith (link, pid)
   * LVR (link, pid)
   * Micromania (link, pid)
@@ -37,6 +39,8 @@
   * New Balance (link, pid)
   * QueueIT (link)
   * Shopify (link)
+  * Size (link, pid, sizepid)
+  * TheHipStore (link, pid, sizepid)
   * Zalando (link, pid)
 
 ### Country
@@ -44,7 +48,10 @@ Some sites support the country parameter in the quicktask, the country is not ma
 
 **Sites supporting the country parameter**
  * Amazon
+ * Footpatrol 
+ * JDSports
  * NBSklep
+ * Size
 
  ### Additional parameters
 We also support other optional additional parameters such as:
