@@ -22,7 +22,7 @@
  **Values to insert in the variable site**
   * About You (link, pid)
   * Adidas (link, pid)
-  * Airness (link)
+  * Airness (link, pid)
   * Amazon (link, pid)
   * Asos (link, pid)
   * Awlab (link, pid)
@@ -41,6 +41,7 @@
   * NBSklep (link, pid)
   * New Balance (link, pid)
   * QueueIT (link)
+  * Rinascente (link, pid)
   * Shopify (link)
   * Size (link, pid, sizepid)
   * TheHipStore (link, pid, sizepid)
@@ -54,6 +55,7 @@ Some sites support the country parameter in the quicktask, the country is not ma
 
 **Sites supporting the country parameter**
  * Amazon
+ * Awlab
  * Footpatrol 
  * JDSports
  * NBSklep
