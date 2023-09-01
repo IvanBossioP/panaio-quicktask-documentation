@@ -44,6 +44,8 @@
   * Rinascente (link, pid)
   * Shopify (link)
   * Size (link, pid, sizepid)
+  * Snipes (link, pid)
+  * Solebox (link, pid)
   * TheHipStore (link, pid, sizepid)
   * Zalando (link, pid)
 
