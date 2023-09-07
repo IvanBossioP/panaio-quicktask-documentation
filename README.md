@@ -29,6 +29,7 @@
   * Boozt (link, pid)
   * Cisalfa (link)
   * Disney (link, pid)
+  * End Clothing (link, pid)
   * Fnac (link, pid)
   * Footpatrol (link, pid, sizepid)
   * Here Store (link, pid)
