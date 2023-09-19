@@ -35,6 +35,7 @@
   * Here Store (link, pid)
   * H&M (link, pid)
   * JDSports (link, pid, sizepid)
+  * Kickz (link, pid)
   * Kith (link, pid)
   * LVR (link, pid)
   * Micromania (link, pid)
