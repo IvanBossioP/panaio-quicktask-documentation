@@ -32,6 +32,7 @@
   * End Clothing (link, pid)
   * Fnac (link, pid)
   * Footpatrol (link, pid, sizepid)
+  * Funko Europe (link)
   * Here Store (link, pid)
   * H&M (link, pid)
   * JDSports (link, pid, sizepid)
