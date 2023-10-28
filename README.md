@@ -43,6 +43,7 @@
   * Myntra (link, pid)
   * NBSklep (link, pid)
   * New Balance (link, pid)
+  * Nike (link, pid) (pid can be both productId and sku)
   * QueueIT (link)
   * Rinascente (link, pid)
   * Shopify (link)
