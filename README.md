@@ -45,6 +45,7 @@
   * New Balance (link, pid)
   * Nike (link, pid) (pid can be both productId and sku)
   * QueueIT (link)
+  * PRM (link, pid)
   * Rinascente (link, pid)
   * Shopify (link)
   * Size (link, pid, sizepid)
