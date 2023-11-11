@@ -28,6 +28,7 @@
   * Awlab (link, pid)
   * Boozt (link, pid)
   * Cisalfa (link)
+  * Courir (link, pid, sizepid)
   * Disney (link, pid)
   * End Clothing (link, pid)
   * Fnac (link, pid)
