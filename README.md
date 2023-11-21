@@ -32,6 +32,7 @@
   * Disney (link, pid)
   * End Clothing (link, pid)
   * Fnac (link, pid)
+  * Footlocker (link, pid)
   * Footpatrol (link, pid, sizepid)
   * Funko Europe (link)
   * Here Store (link, pid)
