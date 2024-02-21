@@ -29,6 +29,7 @@
   * Boozt (link, pid)
   * Cisalfa (link)
   * Courir (link, pid, sizepid)
+  * Crocs (link, pid) pid format is pid-color
   * Disney (link, pid)
   * End Clothing (link, pid)
   * Fnac (link, pid)
@@ -49,6 +50,7 @@
   * QueueIT (link)
   * PRM (link, pid)
   * Rinascente (link, pid)
+  * SecuTix (link)
   * Shopify (link)
   * Size (link, pid, sizepid)
   * Snipes (link, pid)
