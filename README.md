@@ -39,6 +39,7 @@
   * Here Store (link, pid)
   * H&M (link, pid)
   * JDSports (link, pid, sizepid)
+  * JDSports East (link) this is site name for jdsports pl,sk,hu,ro,lt
   * Kickz (link, pid)
   * Kith (link, pid)
   * LVR (link, pid)
@@ -69,6 +70,7 @@ Some sites support the country parameter in the quicktask, the country is not ma
  * Awlab
  * Footpatrol 
  * JDSports
+ * JDSports East
  * NBSklep
  * Size
 
