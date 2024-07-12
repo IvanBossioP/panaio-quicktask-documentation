@@ -46,7 +46,7 @@
   * Micromania (link, pid)
   * Myntra (link, pid)
   * NBSklep (link, pid)
-  * New Balance (link, pid)
+  * New Balance (link, pid) (add style after pid or url in this format pid:style)
   * Nike (link, pid) (pid can be both productId and sku)
   * QueueIT (link)
   * PRM (link, pid)
