@@ -24,6 +24,7 @@
   * Adidas (link, pid)
   * Airness (link, pid)
   * Amazon (link, pid)
+  * Asics (link, pid)
   * Asos (link, pid)
   * Awlab (link, pid)
   * Boozt (link, pid)
@@ -41,11 +42,10 @@
   * JDSports (link, pid, sizepid)
   * JDSports East (link) this is site name for jdsports pl,sk,hu,ro,lt
   * Kickz (link, pid)
-  * Kith (link, pid)
   * LVR (link, pid)
   * Micromania (link, pid)
   * Myntra (link, pid)
-  * NBSklep (link, pid)
+  * NBSklep (link, pid) this is site name for newbalance cz,pl,sk,hu
   * New Balance (link, pid) (add style after pid or url in this format pid:style)
   * Nike (link, pid) (pid can be both productId and sku)
   * QueueIT (link)
