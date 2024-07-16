@@ -22,7 +22,6 @@
  **Values to insert in the variable site**
   * About You (link, pid)
   * Adidas (link, pid)
-  * Airness (link, pid)
   * Amazon (link, pid)
   * Asics (link, pid)
   * Asos (link, pid)
@@ -36,6 +35,7 @@
   * Fnac (link, pid)
   * Footlocker (link, pid)
   * Footpatrol (link, pid, sizepid)
+  * Footshop (link, pid)
   * Funko Europe (link)
   * Here Store (link, pid)
   * H&M (link, pid)
