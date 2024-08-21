@@ -57,6 +57,7 @@
   * Snipes (link, pid)
   * Solebox (link, pid)
   * TheHipStore (link, pid, sizepid)
+  * Uniqlo (link, pid)
   * Zalando (link, pid)
 
 ### Add to monitor quicktask
