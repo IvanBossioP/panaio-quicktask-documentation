@@ -57,6 +57,7 @@
   * Snipes (link, pid)
   * Solebox (link, pid)
   * TheHipStore (link, pid, sizepid)
+  * UGG (pid) (add colorid after pid pid-colorid)
   * Uniqlo (link, pid)
   * Zalando (link, pid)
 
