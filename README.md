@@ -8,12 +8,12 @@
 </code></pre>
 
  
-****site = Kith**** <br>
-****productLink = https://eu.kith.com/collections/mens-footwear/products/jbct4838-011**** <br>
+****site = Asos**** <br>
+****productLink = https://www.asos.com/nike/nike-p-6000-trainer-in-metallic-silver-and-red/prd/207050743**** <br>
 
 
 ### Examples of quickTask
-<pre> https://www.panaio.com/quicktask?site=Kith&link=https%3A%2F%2Feu.kith.com%2Fcollections%2Fmens-footwear%2Fproducts%2Fjbct4838-011 </pre>
+<pre> https://www.panaio.com/quicktask?site=Asos&link=https%3A%2F%2Fwww.asos.com%2Fnike%2Fnike-p-6000-trainer-in-metallic-silver-and-red%2Fprd%2F207050743 </pre>
 
 #
 ### Site
@@ -22,21 +22,24 @@
  **Values to insert in the variable site**
   * About You (link, pid)
   * Adidas (link, pid)
+  * Alternate (link, pid)
   * Amazon (link, pid)
   * Asics (link, pid)
   * Asos (link, pid)
+  * Auchan (link, pid)
   * Awlab (link, pid)
   * Boozt (link, pid)
+  * Breuninger (link, pid)
   * Cisalfa (link)
   * Courir (link, pid, sizepid)
   * Crocs (link, pid) pid format is pid-color
   * Disney (link, pid)
   * End Clothing (link, pid)
   * Fnac (link, pid)
-  * Footlocker (link, pid)
   * Footpatrol (link, pid, sizepid)
   * Footshop (link, pid)
   * Funko Europe (link)
+  * Gamestop (link, pid)
   * Here Store (link, pid)
   * H&M (link, pid)
   * JDSports (link, pid, sizepid)
@@ -44,12 +47,14 @@
   * Kickz (link, pid)
   * LVR (link, pid)
   * Micromania (link, pid)
+  * Modivo (link, pid)
+  * Mueller (link, pid)
   * Myntra (link, pid)
   * NBSklep (link, pid) this is site name for newbalance cz,pl,sk,hu
   * New Balance (link, pid) (add style after pid or url in this format pid:style)
   * Nike (link, pid) (pid can be both productId and sku)
-  * QueueIT (link)
   * PRM (link, pid)
+  * QueueIT (link)
   * Rinascente (link, pid)
   * SecuTix (link)
   * Shopify (link)
@@ -57,8 +62,6 @@
   * Snipes (link, pid)
   * Solebox (link, pid)
   * TheHipStore (link, pid, sizepid)
-  * UGG (pid) (add colorid after pid pid-colorid)
-  * Uniqlo (link, pid)
   * Zalando (link, pid)
 
 ### Add to monitor quicktask
