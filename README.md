@@ -62,6 +62,7 @@
   * Snipes (link, pid)
   * Solebox (link, pid)
   * TheHipStore (link, pid, sizepid)
+  * Toys Center (link, pid)
   * Zalando (link, pid)
 
 ### Add to monitor quicktask
