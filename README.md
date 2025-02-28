@@ -30,12 +30,14 @@
   * Awlab (link, pid)
   * Boozt (link, pid)
   * Breuninger (link, pid)
+  * Caseking (link, pid)
   * Cisalfa (link)
   * Courir (link, pid, sizepid)
   * Crocs (link, pid) pid format is pid-color
   * Disney (link, pid)
   * End Clothing (link, pid)
   * Fnac (link, pid)
+  * Footlocker (link, pid)
   * Footpatrol (link, pid, sizepid)
   * Footshop (link, pid)
   * Funko Europe (link)
@@ -44,6 +46,7 @@
   * H&M (link, pid)
   * JDSports (link, pid, sizepid)
   * JDSports East (link) this is site name for jdsports pl,sk,hu,ro,lt
+  * JoueClub (link, pid)
   * Kickz (link, pid)
   * LVR (link, pid)
   * Micromania (link, pid)
