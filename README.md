@@ -69,9 +69,6 @@
   * Toys Center (link, pid)
   * Zalando (link, pid)
 
-### Add to monitor quicktask
-You can create an add to monitor quicktask by adding quicktaskType=monitor to the quicktask url
-
 ### Country
 Some sites support the country parameter in the quicktask, the country is not mandatory, you can add it with this format country=<country> with the country being lowercase
 
@@ -91,3 +88,5 @@ We also support other optional additional parameters such as:
  * quantity, used to sent quantity of the item
  * priceLimit, used only on amazon to specify the maximum of an item, if the item price should be less than 100€ for example priceLimit must be set to 100
  * details, used only on amazon to specify an offerid this must be used with Fast mode
+
+Other parameters might still be supported even if undocumented, please open a ticket in our discord support server if you have some specific questions https://discord.gg/AvgQ2EMW
