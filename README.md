@@ -3,7 +3,7 @@
 ### Quicktask Structure
 
 <pre><code>
- https://www.panaio.com/quicktask?site=&lt;site&gt;&link=&lt;productLink&gt;
+ https://www.panaio.com/quicktask?link={productLink}
  
 </code></pre>
 
@@ -12,11 +12,12 @@
 ****productLink = https://www.asos.com/nike/nike-p-6000-trainer-in-metallic-silver-and-red/prd/207050743**** <br>
 
 
-### Examples of quickTask
-<pre> https://www.panaio.com/quicktask?site=Asos&link=https%3A%2F%2Fwww.asos.com%2Fnike%2Fnike-p-6000-trainer-in-metallic-silver-and-red%2Fprd%2F207050743 </pre>
+### Examples of quicktask
+<pre> https://www.panaio.com/quicktask?link=https%3A%2F%2Fwww.asos.com%2Fnike%2Fnike-p-6000-trainer-in-metallic-silver-and-red%2Fprd%2F207050743 </pre>
 
-#
-### Site
+
+### Site parameter
+***Using the site parameter is now deprecated and not suggested anymore, just specify the link and the bot will get the site on its own, please note that if you specify a pid/SKU you still need to supply a site since the bot cannot detect the site from just the pid/sku***
 ***The brackets next to the sites indicate that the parameters specified can be entered instead of the productLink***
 
  **Values to insert in the variable site**
